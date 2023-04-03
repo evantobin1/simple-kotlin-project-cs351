@@ -1,4 +1,4 @@
-#Simple Kotlin Project
+# Simple Kotlin Project
 
 This is a simple Kotlin project for CS351.
 
